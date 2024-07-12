@@ -1,6 +1,5 @@
-# SENAC_Library
-
-It's the boys
-- Matheus
-- Róger
+# Senac Library Project
+Group integrants:
+- Matheus Henique Justin Caetano
 - Paulo
+- Róger Gustavo Silveira Ferreira
